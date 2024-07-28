@@ -48,7 +48,7 @@ svg,img { max-width: 100%; height: auto; }
 .ds-closebutton{ position: absolute; left:0; right: 0; margin: 0 auto; margin-top:2.75rem;  border-radius: 100%; border: 1px solid #687278; width: 64px;height: 64px; line-height: 64px; color: #687278; font-size: 1.875rem }
 .ds-closebutton:hover{ background-color: #687278; color: #FFF  }
 .ds-pge-wrap{ margin-bottom:100px }
-.ds-sticky{position: sticky;top: 0; padding-top: 10px; padding-left: 30px;}
+.ds-sticky{position: sticky;top: 0; padding-top: 10px;}
 
 .ds-left-section figure{ margin-bottom: 2.5rem }
 .ds-socail span{ display: block; font-weight: 600; font-size: 1.125rem  }
