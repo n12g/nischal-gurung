@@ -222,7 +222,7 @@ a:hover { text-decoration: underline; }
 .header { margin-bottom: 52px; }
 
 .header-name {
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 500;
   color: var(--fg);
   margin-bottom: 4px;
@@ -260,7 +260,7 @@ section { margin-bottom: 52px; }
 
 .section-label {
   font-family: var(--mono);
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   color: var(--brand);
   letter-spacing: 0.08em;
@@ -275,7 +275,7 @@ section { margin-bottom: 52px; }
 }
 
 /* ── About ── */
-.about-text { font-size: 15px; line-height: 1.6; color: var(--fg); }
+.about-text { font-size: 14px; line-height: 1.6; color: var(--fg); }
 
 /* ── Now ── */
 .now-list { list-style: none; display: flex; flex-direction: column; gap: 6px; }
